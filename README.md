@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mitansh Sehgal</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate developer.</h3>
 <img align="right" alt="Coding" width="300"src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mitanshsehgal&label=Profile%20views&color=0e75b6&style=flat" alt="mitanshsehgal" /> </p>
